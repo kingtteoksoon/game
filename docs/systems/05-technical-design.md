@@ -164,9 +164,9 @@ C-09)으로 승계.
 ```
 - **조합표는 코드가 아닌 데이터**: `CombineTable {tagA, tagB, window_s,
   result_spell, discovered:bool}` — 신규 조합 추가가 밸런스 작업 수준이 되도록.
-- 신검 분리 보상(도력 자동회복 3배·분리계수 1.15, 04 문서 §3.3)은
-  SwordLocus != Hand 동안 활성되는 상시 GameplayEffect로 구현 — 개별 스킬이
-  아니라 상태가 버프의 원천.
+- 신검 분리 보상(수치 정본: 02 문서 §2.3 표 — N-03 단일 소스)은 SwordLocus가
+  Planted/Flight인 동안 활성되는 상시 GameplayEffect로 구현(Void는 '준분리' —
+  별도 경량 태그) — 개별 스킬이 아니라 상태가 버프의 원천.
 
 ### 3.4 적 AI·조우 구조
 - 잡몹: BT + 그룹 토큰 시스템(동시 공격권 토큰 2~3개 — 포위하되 다구리 금지).

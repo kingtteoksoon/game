@@ -148,6 +148,235 @@
 
 ---
 
+> **[확장 조사 — 3라운드 발주]** 이하 §7~§13은 총괄 지시(추록 3 §3라운드 작업 발주 "시장성·시장조사")에 따라
+> **넓은 범위**로 심화한 신규 섹션이다. §1~§6의 경쟁작·판매 데이터·조건부 Go 판정은 **유지**하되,
+> 글로벌 장르 지형·인접 시장·플랫폼·수익 모델·수요 시그널·투자 환경을 추가해 좌표를 넓힌다.
+> 모든 수치는 **조사 시점 2026년 7월** 기준이며 발표 시점을 각주로 명기한다.
+
+## 7. 글로벌 액션·어드벤처 장르 지형 — 「백연」의 좌표
+
+### 7.1 하위 장르별 시장 규모·성장률·대표 판매고 [확인/추정 혼재]
+
+| 하위 장르 | 시장 규모·성장 (조사 시점) | 대표 판매고 | 표기 |
+|---|---|---|---|
+| **액션 어드벤처**(갓오브워·젤다 계열) | 액션 게임 시장 $17.63B(2024)→$30.33B(2032), CAGR 7.03%. **액션 어드벤처가 액션 시장 매출의 38.42%**(2024, 최대 하위 장르) | 갓오브워 시리즈 누적 ≈7,650만, GoW 2018+라그나로크 매출 $1.4B↑ / 젤다 시리즈 1.5억+ (TotK 2,061만) | [확인] SNS Insider / Statista |
+| **소울라이크**(프롬 계열) | 추정치 편차 큼: $1.2~1.5B(2024)→$3.2~3.5B(2033), CAGR 9~15.5%. **PC 접근성·스트리밍이 확산 동력** | 엘든 링 3,000만(2025.4) | [추정] VMR/DataInsights 등 시장조사사 (자료 간 편차 [주의]) |
+| **스타일리시/캐릭터 액션**(DMC·베요네타) | 별도 시장 규모 집계 부재 — 액션 하위로 흡수. **니치·고관여 코어 장르** | DMC 시리즈 3,800만(2025.12.31, 캡콤) / DMC5 단독 ≈1,000만 / 베요네타 시리즈 700만+ | [확인] 캡콤/세가. **넷플릭스 DMC 애니 이후 2025 판매 급반등** — IP 미디어믹스 효과 실증 |
+| **소울라이트/로그라이트**(하데스 계열) | 로그라이크/라이트 시장 $3.8B(2025)→$9.6B(2034), CAGR 10.8%. 스팀에 1,200+ 태그 타이틀 | 하데스·데드셀·슬레이더스파이어 합산 수천만 장 | [확인] MarketIntelo. 저예산·고반복성 구조로 **성장률은 액션 어드벤처보다 높음** |
+
+### 7.2 「백연」의 좌표 [추정]
+
+- **주 장르**: 스타일리시 액션(검·도술 콤보 표현력) × 내러티브 액션 어드벤처(갓오브워·P의 거짓 서사 몰입).
+  즉 **"캐릭터 액션의 손맛 + 액션 어드벤처의 서사 볼륨"** 교집합. 순수 소울라이크는 아니나
+  소울라이크 관객 풀과 태그·마케팅을 상당 부분 공유.
+- **함의**: 액션 어드벤처(38.42% 최대 매출 하위 장르)라는 **가장 큰 파이**에 서면서, 스타일리시 액션의
+  **차별적 손맛**으로 니치 코어층을 흡수하는 구조. 다만 스타일리시 액션은 시장 규모 독립 집계가 없을
+  만큼 **니치**라, 서사·소재로 대중 접점을 넓혀야 상업 규모가 산다(§4 포지셔닝과 정합).
+- **[주의]** 소울라이크 시장 규모 수치는 조사사마다 2~3배 편차 — 신흥 장르라 정의·집계 기준이 불안정.
+  단일 수치 인용 금지, "성장 추세"로만 활용.
+
+## 8. 인접·경쟁 소재 시장 — 아시아 신화·동양 판타지의 서구 수용
+
+### 8.1 아시아 신화 게임 붐의 데이터 [확인]
+
+- **중국**: 2025 상반기 게임 시장 1,680억 위안(≈$23B), 전년比 +14.08%, 게이머 6.79억(신기록).
+  **중국 자체개발 게임 해외 매출 2025년 $204.5억 돌파**(중국음향디지털출판협회). 오공 1개월 2,000만 장,
+  후속 '검은 신화: 종규' 트레일러 빌리빌리 1,000만 뷰 — **신화 소재가 중국발 프리미엄의 표준 문법으로 정착.**
+- **한국**: 동아시아 시장 게이머 9,840만(2025, +1.3%), **한국 ARPU $30.77 — 아시아 최고.** 콘솔 수출
+  2024년 +15.1%($2.14억)로 플랫폼 중 최고 성장.
+- **일본**: ARPU $21.82. 액션·소울라이크(엘든 링·세키로)의 본가로 장르 신뢰의 원산지.
+
+### 8.2 동양 판타지 IP의 서구 수용 추이 [확인]
+
+- **오공의 중국 밖 절반**: 판매의 절반 이상이 중국 밖 — 동양 신화가 서구에서 팔린다는 최초의 대형 실증.
+- **무협/선협의 글로벌 성립**: **Where Winds Meet(연운십육성)** 2025.11.14 글로벌 출시(PC/PS5, F2P),
+  24시간 200만 명·누적 1,500만 명·스팀 긍정 88%. 서구 평단이 "무협 액션의 방대함·전투"를 호평.
+  **무협이라는 생소 소재도 프로덕션 퀄리티로 서구 진입 가능**함을 입증(단, F2P 모델이라 프리미엄 「백연」과
+  BM은 상이 — 소재 수용성 근거로만 활용).
+- **[주의]** 서구 수용의 관문은 **소재가 아니라 프로덕션 밸류와 접근성.** 오공·WWM 모두 AAA급 비주얼로
+  진입. 「백연」의 중형 규모에서는 소재 이국성보다 **"1초 안에 읽히는 훅"**(검의 소재 메커니즘)이 관문.
+
+### 8.3 소재 경쟁 지형 갱신 — 한국 설화 칸의 혼잡 심화 [확인]
+
+- **신규 최우선 경쟁작 — Woochi the Wayfarer(넥슨/LoreVault):** 조선시대 배경, **한국 고전소설 「전우치전」**
+  기반 **싱글 액션 어드벤처.** 넥슨게임즈의 **첫 싱글 액션 어드벤처** 진출작, UE5, PC·콘솔 글로벌 타깃.
+  **도깨비·구미호 등 한국 설화 존재 등장**, 주인공은 도사(道士) 전우치. 음악은 **정재일(오징어게임·기생충)**,
+  한국관광공사 사진 6.9만 장 활용. → **「백연」과 소재(한국 설화·구미호·도술)·장르(싱글 액션 어드벤처)·
+  플랫폼(PC+콘솔)이 정면 중첩.** Project Tal(2027)·Mongil에 이어 **한국 설화 싱글 액션 칸이 3~4작 밀집**.
+- **함의(R11 강화)**: "한국 설화 최초/유일"은 완전히 무효. 「백연」의 방어선은 오직 **고유 메커니즘(검의 소재)
+  + 관점(요괴를 수호한 신수)** 뿐. 넥슨(자본·마케팅 규모)이 경쟁자라는 점은 **주목도 확보 난이도**를 높인다.
+
+## 9. 플랫폼·유통 전략 확장
+
+### 9.1 스팀 vs 콘솔 vs 구독 [확인]
+
+- **스팀(PC)**: PC 75%·MAU 1.47억·연 $17.7B(§1). 프리미엄 싱글의 1차 채널. **선행 타당** 재확인.
+- **콘솔(PS5/Xbox)**: PS5가 아시아 소재 프리미엄의 강채널(오공 PS5 단독 ≈500만, 중국서 PS5 품절).
+  Xbox는 서구 편중·설치기반 열세 — **PS5 우선, Xbox 후순위** 합리적.
+- **구독(게임패스류)는 프리미엄 싱글에 독 [확인/주의]**: Day-one 게임패스 등록은 **예상 프리미엄 판매의
+  ~80% 잠식**(Christopher Dring, 2025). 콜오브듀티 BO6 day-one 등록으로 최대 $3억 손실 추정,
+  이후 프랜차이즈가 **day-one 게임패스 철회.** MS조차 day-one 정책 재검토 중.
+  → **「백연」은 day-one 구독 등록을 배제.** 구독은 출시 12~18개월 후 롱테일 노출 카드로만(최소보증 협상 전제).
+
+### 9.2 지역별 시장 규모·진입 전략 [확인]
+
+| 지역 | 2025 규모(Newzoo) | 「백연」 진입 전략 [추정] |
+|---|---|---|
+| **중화권** | 중국 $49.8B(글로벌 최대) | 아시아 소재 최대 흥행 변수. 스팀 우선(판호 우회) + 간체 현지화·문화 코드 존중. **매출 상방의 열쇠이자 심의 리스크의 근원** |
+| **북미** | 미국 $49.6B | 서사·프로덕션 밸류로 승부. 스트리머 시딩 핵심 |
+| **유럽** | $33.1B(성장 둔화 ~2.3%) | 소울라이크·액션 코어층. 다국어(독·불) 현지화 |
+| **한국** | 아시아 ARPU 최고($30.77) | 자국 설화 프리미엄 — 초기 화제·PR 거점. 단 내수만으로 BEP 불가 |
+| **동남아** | 고성장(모바일 편중) | PC 프리미엄 침투 낮음, 우선순위 하 |
+
+- **중국·미국이 글로벌 지출의 절반** — 이 두 시장 커버가 상업 성패의 축.
+
+### 9.3 콘솔 이식 타이밍의 상업적 사례 [확인]
+
+- **스텔라 블레이드(PS5 독점 14개월 후 PC)**: PC가 3일 100만·누적 210만·**$70M 매출**, PC 판매가
+  PS5의 +50%. **PC 출시 후 PS5 판매도 183만→210만으로 재점화**(+$10M). PC 관객의 **53%가 중국**.
+- **[주의] 지연 이식의 기회비용**: PlayStation 지연 PC 포트는 초기 3개월 PC 비중 ~13%에 그침(동시 출시
+  AAA는 ~44%). **콘솔 독점 기간이 길수록 PC 초기 수요를 콘솔이 선점** — 지연이 PS5 판매엔 유리하나
+  PC 총량엔 손실. 「백연」처럼 **신규 IP·중형**은 콘솔 독점 협상력이 약하므로, **PC 선행 후 콘솔 근접
+  이식**(대형 독점 딜이 없다면)이 노출 총량에 유리. M5 게이트(판정 질문 22) 판단 시 이 데이터 반영.
+
+## 10. 가격·수익 모델 벤치마크
+
+### 10.1 출시가 [확인/추정]
+
+- 한국산 중형 프리미엄(P의 거짓·카잔·스텔라 블레이드) 구간 = **$49.9~59.9 / 59,000~69,000원** (§5 유지).
+- AAA $70 풀프라이스는 규모·인지도 전제 — 「백연」 중형엔 부적합. **$59.9 앵커, 지역별 구매력 가격제(중국·
+  동남아 하향)** 권장.
+
+### 10.2 할인 곡선·DLC 기여 [확인]
+
+- **프로모션 판매가 생애 매출의 60%+** 를 차지(대부분 타이틀). 즉 **정가 초동은 화제·평판 확보용,
+  실매출 다수는 세일 롱테일** — 출시 후 2~3년 세일 캘린더(스팀 대형 세일 4회/년) 관리가 LTV를 좌우.
+- **DLC 기여**: 1년차 DLC는 총매출의 ~9%, 이후 라이브 콘텐츠 매출의 20~25%로 안정. **어태치율 20~45%
+  (평균 ≈35%)**, DLC마다 전작의 ~90%로 체감. P의 거짓 '오버추어'가 판매를 400만까지 견인한 사례가
+  전형. → **「백연」은 출시 후 단일 대형 확장 1개**(스토리 DLC)를 롱테일 카드로 설계, 라이브서비스 배제(§5).
+
+### 10.3 데모/얼리액세스/넥스트페스트 효과 [확인]
+
+- **넥스트페스트 데모**: 데모 중앙값 +806 위시리스트(2026.2), 70퍼센타일 1,839, 95퍼센타일 13,461,
+  브레이크아웃 57,074. 데모→위시리스트 전환 **20%가 비공식 목표**(최고 사례 37.5%). → 수직 슬라이스(M3)의
+  넥스트페스트 데모 전환(§5) **유효 확인**, 단 "데모만으로 대박"은 환상 — 사전 모멘텀이 있어야 폭발.
+- **위시리스트→구매 전환**: 출시 3개월 내 10~25%(Dispatch 25%, No I'm Not a Human 15%, Jump Space 10%).
+  **위시리스트 5만 → 출시일 매출 $10~20만** 벤치마크. → 「백연」 판매 목표 역산 시 **출시 전 위시리스트
+  수십만 축적**이 보수 시나리오(30~50만)의 선행 지표.
+- **얼리액세스는 프리미엄 서사 액션에 부적합 [확인]**: EA 졸업작의 **21%만** 정식 출시 후 30일 매출이
+  EA 초기 30일을 상회(2026). 서사 완결형 「백연」은 EA보다 **완성형 출시 + 데모** 전략이 정합.
+
+## 11. 수요·트렌드 시그널
+
+### 11.1 여성 주인공 액션의 시장 수용 [확인]
+
+- **스텔라 블레이드(주인공 이브) 누적 610만**(2026.1 Sensor Tower) — 여성 주인공 스타일 액션의 글로벌
+  성립 실증. 속편 'Blood Rain' 제작 중. → **「백연」(여성/여우 신수 주인공)의 성별 리스크는 시장 데이터상
+  기우.** 오히려 스텔라 블레이드 관객과 타깃 중첩 = 마케팅 유입 경로.
+- **[주의]** 스텔라 블레이드는 캐릭터 어필(디자인 논쟁 포함)이 마케팅 동력의 일부였음 — 「백연」은 **디자인
+  선정성이 아닌 서사·미학(무속·설화)으로 차별**하는 노선이므로 동일 전술 차용은 부적합. 관객 풀만 공유.
+
+### 11.2 스트리밍/숏폼 바이럴이 판매에 미친 사례 [확인/추정]
+
+- **오공**: 스트리밍·숏폼 화제성이 240만 동접·초동 폭발을 견인(§1). **비주얼 스펙터클이 클립화에 최적**이
+  바이럴의 조건.
+- **이날치 '범 내려온다'(Feel the Rhythm of Korea)**: 판소리(무속 뿌리, 수궁가 기반)를 신스록으로 재해석,
+  관광공사 캠페인 **서울 편 5억 뷰+**. **한국 전통 미학이 숏폼에서 글로벌 바이럴이 된 최강 사례** —
+  「백연」의 **국악 장단·굿·오방색**이 클립화·바이럴 잠재력을 가진 자산임을 시사(사운드·연출을 "클립 되는"
+  순간으로 설계 권고).
+- **[주의] 숏폼 오가닉 리치 하락(2026)**: 틱톡 알고리즘 변화·규제로 무료 오가닉 도달 급감, **유의미
+  노출은 유료·인플루언서 파트너십 필요.** "바이럴 요행" 의존 금지, 마케팅 예산에 크리에이터 시딩 계상.
+
+### 11.3 장르 태그·위시리스트 트렌드 [확인/추정]
+
+- 소울라이크·로그라이트 태그 신작이 스팀에 매월 수십 건 유입 — **태그 경쟁 극심.** 「백연」은 "Souls-like"
+  단일 태그 의존 대신 **"Mythology"·"Action-Adventure"·"Stylish Action"·"Story Rich"** 복합 태깅으로
+  차별 노출 필요.
+
+## 12. 투자·퍼블리싱 환경
+
+### 12.1 한국 게임사의 콘솔·글로벌 프리미엄 전환 [확인]
+
+- **구조적 전환 확인**: 모바일 성장 둔화 → 넥슨·크래프톤·웨매드(마드엔진)·NCSoft 등이 **PC·콘솔 프리미엄
+  싱글/오픈월드로 대이동.** 콘솔 수출 +15.1%(2024, 플랫폼 최고 성장). 넥슨 첫 싱글 액션 어드벤처(Woochi),
+  크래프톤 오픈월드(Windless), 마드엔진 Project TAL 등. **"세계관 자체를 수출"하는 K-내러티브 레이스**가
+  업계 담론. → 「백연」은 이 흐름의 **정통 계보** — 투자·인재·PR 환경은 우호적이나 **경쟁 밀집의 이면**.
+
+### 12.2 퍼블리셔 vs 자체 출시 [추정]
+
+- **자체 출시(셀프퍼블)**: 스팀 직판은 수익 배분 유리(스팀 30%만), 통제권 확보. 단 **글로벌 마케팅·현지화·
+  콘솔 인증·중화권 유통 역량**을 자체 부담.
+- **퍼블리셔**: 스텔라 블레이드=SIE(소니) 퍼블리싱으로 PS5 독점 마케팅·품질 지원 수혜. **중형 신규 IP는
+  콘솔 이식·중화권·마케팅 파워를 위해 퍼블리셔 파트너십이 상방을 키움.** → **권고: 자체 IP·창작 통제는
+  사수하되, 콘솔/지역 배급은 퍼블리셔 또는 지역 파트너와 하이브리드**(스팀 직판 + 콘솔·중화권 파트너).
+
+### 12.3 정부 지원(KOCCA) 활용 [확인]
+
+- **KOCCA 게임 콘텐츠 제작 지원**: 2025년 76개 과제 **약 219억 원**(총예산 [주의] 자료 간 21.9억~23.6억
+  원 표기 혼재 — 원문 오역 가능성, 지원 총액은 **219억 원 규모**로 해석). **콘솔 타이틀은 최대 3년 연속
+  지원 가능**(프리미엄 글로벌 전략 반영). 2026년 게임 예산 전년比 +101억 원, 약 82개 과제 지원 예정.
+- **활용 가능성 [추정]**: 「백연」은 **콘솔·글로벌 프리미엄·한국 IP**라는 KOCCA 우선순위에 정확히 부합.
+  다년 제작 지원·글로벌 진출(수출·전시)·현지화 지원 트랙 신청 검토 권고. 넥슨·펄어비스 등이 멘토 기업으로
+  참여 — 네트워킹 채널로도 유효. **[주의]** 지원금은 개발비 보전 성격이며 지분·저작권 조건 확인 필수.
+
+## 13. 종합 업데이트 — 확장 데이터 반영 판정 갱신
+
+### 13.1 판매 시나리오 재확인·보정 [추정]
+
+- §6.1 3구간(보수 30~50만 / 기본 100~200만 / 낙관 300만+) **유지.** 확장 데이터로 다음 보정:
+  - **선행 지표 추가**: 보수 시나리오 달성엔 **출시 전 위시리스트 수십만 + 넥스트페스트 데모 상위권**이 필요.
+  - **지역 상방**: 낙관 시나리오는 **중화권 흥행(스텔라 블레이드 PC 53% 중국 선례)** 없이는 어렵다 — 중국
+    스팀 노출·현지화가 상방의 필수 조건.
+  - **매출 구조**: 정가 초동보다 **세일 롱테일(생애 매출 60%+) + 확장 DLC 1종(총매출 ~20%)**이 실질 회수.
+    BEP 설계를 **롱테일 2~3년 기준**으로 재작성 권고.
+
+### 13.2 포지셔닝 갱신 [주의 — §4.2 강화]
+
+- Woochi the Wayfarer(넥슨, 전우치·구미호·도깨비·싱글 액션)의 등장으로 **"한국 설화 싱글 액션" 칸이
+  대형 자본까지 진입.** §4.2의 "최초" 폐기 판정은 이제 **선택이 아니라 필수.**
+- 유일 방어선 재확정: **① 검의 소재 메커니즘("휘두르지 않고 부른다") ② 수호자 관점("복수극이 아닌 수호극")
+  ③ 무속·굿을 시스템으로.** 세 차별점을 마케팅 1초 훅으로 압축. 특히 ①은 Woochi(도술 액션)·Project Tal과도
+  겹치지 않는 **유일 무이한 전투 문법**이므로 최우선 소구점.
+
+### 13.3 리스크 갱신
+
+- **R7(기대치 앵커링) — 유지·강화**: 비교군은 여전히 카잔(≈150만, 목표 미달)~P의 거짓(400만). 오공·WWM
+  (1,500만)·엘든 링(3,000만) 앵커링 금지. 여성 주인공 리스크는 스텔라 블레이드(610만)로 **기각.**
+- **R11(소재 담론) — 상향(중→상)**: Woochi 추가로 **한국 설화 칸 3~4작 밀집 + 대형 자본 진입.** "최초"
+  카피 완전 폐기, 고유 메커니즘 앵커링으로 대응. 소재 자체 수용성은 [확인]이나 **차별화 실패 시 매몰 위험**
+  이 커졌다.
+- **R14(출시 윈도우 혼잡) — 상향·재정의**: 기존 붉은사막·윈드리스·Project Tal에 **Woochi(넥슨)** 추가.
+  「백연」의 완성 시점(2028+)은 러시 후미 — **주목도 감소 vs 시장 성숙의 양면.** 대응: ⓐ 차별 메커니즘으로
+  칸을 벗어나는 포지셔닝 ⓑ 대작과 출시월 정면 충돌 회피(경쟁작 일정 상시 추적) ⓒ 넥스트페스트·데모로
+  독립 화제 축적.
+- **[신규] R15(구독 잠식·플랫폼 정책) [추정]**: day-one 게임패스 등 구독 잠식(~80%)·PlayStation 지연 이식의
+  PC 수요 선점 등 **플랫폼 유통 조건이 매출을 좌우.** 대응: day-one 구독 배제, PC 선행 + 콘솔 근접 이식,
+  구독은 롱테일 최소보증 협상 시에만. → QA 리스크 매트릭스 등재 권고.
+- **[신규] R16(중화권 의존·심의) [주의]**: 상방의 열쇠(중국)가 동시에 심의·판호·환율·가격 리스크의 근원.
+  스텔라 블레이드 PC 매출 53%가 중국이라는 구조를 벤치마크하되, **매출 시나리오가 중국 단일 시장에
+  과의존하지 않도록** 서구·한국 기저 수요를 병행 확보.
+
+### 13.4 시장성 판단 변화 여부
+
+- **판정 유지: 조건부 Go.** 확장 조사는 §6.2의 Go 근거(프리미엄 싱글 시장 유지·성장, 소재 수용성 실증,
+  한국산 프리미엄 판매 실적, 고유 차별점)를 **재확인·강화**했다.
+- **변화점(하방 압력 강화)**: ① 소재 경쟁이 예상보다 심화(Woochi 등 대형 자본 진입) → R11·R14 상향 ②
+  플랫폼 유통 리스크(구독 잠식·이식 타이밍) 신규 인지(R15) ③ 중화권 의존의 양면성(R16). **조건의 무게가
+  '차별화'와 '플랫폼 전략'으로 이동.**
+- **결론**: 시장은 있고 성장한다. 소재도 팔린다. 그러나 **「백연」이 이길 수 있는 유일한 축은 "검의 소재
+  메커니즘 + 수호자 관점"의 순도**이며, 이것이 마케팅 1초 안에 서지 않으면 밀집한 한국 설화 칸에서 매몰된다.
+  Go의 전제는 이 차별화 사수와 규모 통제(보수 판매 BEP)에 전적으로 달려 있다.
+
+### 13.5 후속 조사 과제 (차기 라운드)
+
+- Woochi the Wayfarer·Project Tal·Mongil의 전투·톤·출시일 상세 공개 시 직접 비교 재조사(특히 Woochi의
+  도술 전투가 「백연」의 검·도술과 얼마나 겹치는지).
+- 중화권 스팀 노출·판호 우회 전략과 지역별 구매력 가격제 시뮬레이션.
+- 위시리스트 축적 목표 역산(보수 30~50만 판매 → 필요 위시리스트·데모 KPI) 정량 모델링.
+- R15·R16을 QA 리스크 매트릭스에 정식 등재.
+
+---
+
 ### 출처
 
 - [Stellar Blade — Wikipedia](https://en.wikipedia.org/wiki/Stellar_Blade) / [Sensor Tower 610만 추정 보도](https://www.neogaf.com/threads/stellar-blade-has-sold-more-than-2-million-on-pc-that-makes-it-4-million-total-unit-sale-on-pc-and-ps5.1686286/) / [PC 100만 3일·중국 비중](https://www.pcgamer.com/games/action/stellar-blade-sold-a-million-units-in-3-days-on-pc-and-you-can-mostly-thank-chinese-players/)
@@ -160,3 +389,13 @@
 - [Mongil: Star Dive 한국 신화 지역 — Games Press](https://www.gamespress.com/MONGIL-STAR-DIVE-UNVEILS-NEW-TRAILER-FEATURING-KOREAN-MYTH-INFUSED-REG)
 - [싱글플레이 시장 규모·매출 — Quantumrun 2025](https://www.quantumrun.com/consulting/multiplayer-vs-single-player-gaming-preferences/) / [Steam 통계 2025 — Icon Era](https://icon-era.com/statistics/steam/)
 - [구미호 — Kumiho Wikipedia](https://en.wikipedia.org/wiki/Kumiho) / [문화체육관광부 KOCIS](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=102)
+
+#### 확장 조사(§7~§13) 출처
+
+- **장르 지형**: [Action Games Market — SNS Insider](https://www.snsinsider.com/reports/action-games-market-7639) / [God of War 통계 — Levvvel](https://levvvel.com/god-of-war-statistics/) / [Zelda 판매 — Statista](https://www.statista.com/statistics/1389789/zelda-video-game-unit-sales/) / [Soulslike Market — Verified Market Research](https://www.verifiedmarketresearch.com/product/soulslike-game-market/) / [Roguelike Market — MarketIntelo](https://marketintelo.com/report/roguelike-games-market) / [DMC 3,800만·넷플릭스 효과 — GameRant](https://gamerant.com/devil-may-cry-games-sales-boost-2025-why/) / [Bayonetta 판매 — VGSales Wiki](https://vgsales.fandom.com/wiki/Bayonetta)
+- **아시아 신화·인접 소재**: [중국 시장 2025 상반기·해외매출 — Global Times](https://www.globaltimes.cn/page/202507/1339805.shtml) / [동아시아 시장·ARPU — Niko Partners](https://nikopartners.com/east-asia-games-market-in-2025-navigating-the-changes/) / [Where Winds Meet 1,500만 — Macao News](https://macaonews.org/news/greater-china/where-winds-meet-game-what-you-need-to-know-about/) / [WWM 리뷰 — World of Chinese](https://www.theworldofchinese.com/2026/01/where-winds-meet-chinese-game-review/) / [Black Myth 종규·중국 신화 붐 — People's Daily](https://en.people.cn/n3/2025/0623/c90000-20331335.html)
+- **경쟁작 Woochi**: [Woochi the Wayfarer 공개 — Inven Global](https://www.invenglobal.com/articles/19555/nexon-reveals-woochi-the-wayfarer-a-joseon-era-action-rpg-based-on-jeon-woo-chi) / [상세·정재일 음악 — Inven Global](https://www.invenglobal.com/articles/19563/nexon-provides-details-on-woochi-the-wayfarer-a-joseon-dark-fantasy) / [PCGamesN](https://www.pcgamesn.com/woochi-the-wayfarer/guide)
+- **플랫폼·지역**: [Newzoo 2025 $188.8B·지역별 — PocketGamer.biz](https://www.pocketgamer.biz/newzoo-global-games-market-set-to-hit-1888bn-in-2025/) / [게임패스 잠식 ~80% — TweakTown](https://www.tweaktown.com/news/112222/game-pass-isnt-sustainable-and-needs-changes-as-analyst-finds-continued-evidence-of-sales-cannibalization/index.html) / [Doom 게임패스 잠식 — XDA](https://www.xda-developers.com/doom-the-dark-ages-proves-what-we-all-knew-day-one-game-pass-cannibalizes-sales/) / [Stellar Blade PC 포트 $70M·중국 53% — Alinea Analytics](https://alineaanalytics.com/blog/stellar_blade/) / [지연 PC 포트 초기 비중 — Dark Horizons](https://www.darkhorizons.com/study-delayed-playstation-pc-ports-hurting-sales/) / [Wukong PS5 500만 — GameRant](https://gamerant.com/black-myth-wukong-total-ps5-sales/)
+- **수익 모델·데모**: [DLC 매출 구조 — GameDevReports/Newzoo](https://gamedevreports.substack.com/p/newzoo-dlc-in-single-player-games) / [프로모션 60%·가격 전략 — Game Developer](https://www.gamedeveloper.com/marketing/how-to-price-your-game-in-2025-and-beyond-) / [넥스트페스트 위시리스트 벤치 — How To Market A Game](https://howtomarketagame.com/2025/03/26/benchmarks-how-many-wishlists-can-i-get-from-steam-next-fest/) / [위시리스트→구매 전환 — Alinea Analytics](https://alineaanalytics.substack.com/p/wishlist-to-buyer-conversions-for) / [EA 21% — Niche Gamer](https://nichegamer.com/new-data-shows-only-21-of-early-access-games-perform-better-after-full-release/)
+- **수요·트렌드**: [Stellar Blade 610만 — NeoGAF/Sensor Tower](https://www.neogaf.com/threads/stellar-blade%E2%80%99s-sales-have-reached-an-estimated-6-1-million-copies-sold-according-to-sensor-tower-data.1692243/) / [이날치·범 내려온다 — Wikipedia](https://en.wikipedia.org/wiki/Leenalchi) / [Feel the Rhythm of Korea 5억 뷰 — LA Review of Books](https://lareviewofbooks.org/blog/the-korea-blog/pansori-disco-leenalchi-new-old-korean-musical-phenomenon-2020-gets-frustrated-tourists-dancing/) / [틱톡 오가닉 리치 하락 2026 — Cloutboost](https://www.cloutboost.com/blog/tiktoks-changing-landscape-for-game-marketing-in-2026-what-developers-need-to-know)
+- **투자·퍼블리싱**: [한국 게임사 콘솔·글로벌 전환 — Digital Today](https://www.digitaltoday.co.kr/en/view/45901/korean-game-makers-seek-breakthrough-on-consoles-as-mobile-growth-slows) / [KOCCA 2026 예산 확대 — 인디게임닷컴](https://indiegame.com/en/archives/18865) / [KOCCA 콘솔 3년 지원 — Digital Today](https://www.digitaltoday.co.kr/en/view/4061/kocca-to-invest-23-6-billion-won-in-game-production-support-this-year-applications-open-until-march-3)

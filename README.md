@@ -16,7 +16,7 @@
 | [`docs/00-overview.md`](docs/00-overview.md) | 프로젝트 헌장 v1.1 — 디자인 필러, 절대 금지 사항, 팀 구조 |
 | [`docs/concept/`](docs/concept/) | 세계관/스토리, 내러티브 연출, 레벨 디자인, 캐릭터/로어 |
 | [`docs/systems/`](docs/systems/) | 코어 메커니즘, 전투, UX/UI, 밸런스/보상, 테크니컬, 보스전, 사이드 시스템 |
-| [`docs/research/`](docs/research/) | 설화·역사 고증, 시장 레퍼런스, 비주얼/사운드, 1890 시대 고증 |
+| [`docs/research/`](docs/research/) | 설화·역사 고증, 시장 레퍼런스, 비주얼/사운드, 1890 시대 고증, 시장성 분석 |
 | [`docs/qa/`](docs/qa/) | QA 검수 보고서, 총괄 판정문(모든 파트 간 충돌의 판례집) |
 
 ## 읽는 순서
